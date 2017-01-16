@@ -40,13 +40,21 @@ Example 2: .1,.22,.3345 1,233.33,444 12.3,44.445,78.9
 12.3 44.445 78.900
 
 Rules:
-1. Do not enter more than one decimal point per number; numbers like ".2" or ".123" are allowed 
+
+1. Do not enter more than one decimal point per number; numbers like ".2" or ".123" are allowed
+
 2. Two or more spaces may not be next to each other
+
 3. Two or more commas may not be next to each other
+
 4. A comma may not be next to a space
+
 5. All rows must be the same length
+
 6. Only Digits, decimal points, commas, and spaces are allowed in the user input
+
 7. The final character in the user input must be a digit
+
 8. The initial character in the user input must be a decimal point or a digit
 
 Motivation
