@@ -5,6 +5,7 @@ Synopsis
 
 This program allows the user to input a matrix in row-major order, and then
 the program prints the matrix to the screen in a neat and pretty format.
+
 Enter the values of each row with commas in between each element. Enter
 one space between each row. Spaces at the very beginning or very end 
 of user input will be ignored.
