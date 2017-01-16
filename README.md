@@ -61,7 +61,7 @@ Rules:
 Motivation
 ----------
 
-At first this was supposed to be a java program to write for fun, nothing to complicated. But then I decided to make it more 
+At first this was supposed to be a java program to write for fun, nothing too complicated. But then I decided to make it more 
 challenging by making sure the user input was correct, not using the split() function, and printing
 the matrix in an easy-to-read manner. 
 
